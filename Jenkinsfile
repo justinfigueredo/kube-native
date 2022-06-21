@@ -3,7 +3,7 @@ pipeline {
     agent any    
     
     environment {
-        MSR_FQDN_PORT='<registry dynamic DNS>:4443'
+        MSR_FQDN_PORT='x5e84dxdswqhkyp5m-fdf3jt6yucz56q6rb.labs.strigo.io:4443'
     }
 
     stages {
